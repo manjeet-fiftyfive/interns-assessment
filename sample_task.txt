@@ -1,0 +1,3 @@
+Hey there, Developers!!
+
+This is Manjeet, and the text file contains sample text, created to practice the GitHub flow and complete the assessent assigned
